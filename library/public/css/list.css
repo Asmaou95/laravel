@@ -1,0 +1,9 @@
+tr, td, th{
+    border: 2px black solid;
+    padding: 0em;
+}
+
+.title:hover, .title:hover a{
+    background-color: rosybrown;
+    font-weight: bold;
+}
